@@ -22,9 +22,20 @@
   color: #fcbf0e;
   text-align: center;
 }
-#bodyHeader
+.bodyHeader
 {
-  margin-left: 5px;
+  margin: auto;
+  color: #fcbf0e;
+  font-size: 8em;
+  font-weight: bold;
+
+}
+
+.header-wrapper{
+  border: solid 5px black;
+  background-color: #0693ac;
+  padding: 45px;
+  display: flex;
 }
 .person
 {
@@ -50,4 +61,17 @@
 p
 {
   font-size: large;
+}
+
+.d-block w-80{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-logo{
+  
+  border: solid black 5px;;
+  border-radius: 25%;
+  display: block;
+  margin-top: 50px;
 }
