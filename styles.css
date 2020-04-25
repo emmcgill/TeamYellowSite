@@ -1,11 +1,33 @@
-body 
-{
-  width: 100wh;
-  height: 100vh;
-}
 .YellowSubmarineContainer 
 {
   height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.inner-container
+{
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    color: black;
+    height: auto;
+    margin-top: 200px;
+}
+h1
+{
+    font-size: 7em;
+    font-family: "Shadows into Light", sans-serif;
+}
+
+h2
+{
+    margin-top: -17px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    font-weight: 400;
 }
 .aboutUs
 {
