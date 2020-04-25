@@ -41,3 +41,44 @@
       75% {transform:  translateY(-50px) translateX(25px) rotate(-5deg);}
       100% {transform:  translateY(0px) translateX(0px) rotate(0deg);}
   }*/
+
+.YellowSubmarineContainer 
+{
+  height: 100%;
+}
+.aboutUs
+{
+  border: solid 5px black;
+  background-color: #0693ac;
+  color: #fcbf0e;
+  text-align: center;
+}
+#bodyHeader
+{
+  margin-left: 5px;
+}
+.person
+{
+  margin: 10px;
+}
+.personHead
+{
+  text-align: center;
+}
+.portrait
+{
+  width: 200px;
+  height: 200px;
+  background-color: #fcbf0e;
+  border-radius: 500px;
+  border: solid black 5px;
+}
+#spacing
+{
+  border: orange solid 2px;
+  margin: 25px;
+}
+p
+{
+  font-size: large;
+}
