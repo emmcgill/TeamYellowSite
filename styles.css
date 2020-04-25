@@ -9,9 +9,10 @@ body
 }
 .aboutUs
 {
-  border: solid 2px black;
+  border: solid 5px black;
   background-color: #0693ac;
   color: #fcbf0e;
+  text-align: center;
 }
 #bodyHeader
 {
@@ -20,6 +21,18 @@ body
 .person
 {
   margin: 10px;
+}
+.personHead
+{
+  text-align: center;
+}
+.portrait
+{
+  width: 200px;
+  height: 200px;
+  background-color: #fcbf0e;
+  border-radius: 500px;
+  border: solid black 5px;
 }
 #spacing
 {
