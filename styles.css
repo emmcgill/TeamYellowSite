@@ -1,0 +1,32 @@
+body 
+{
+  width: 100wh;
+  height: 100vh;
+}
+.YellowSubmarineContainer 
+{
+  height: 100%;
+}
+.aboutUs
+{
+  border: solid 2px black;
+  background-color: #0693ac;
+  color: #fcbf0e;
+}
+#bodyHeader
+{
+  margin-left: 5px;
+}
+.person
+{
+  margin: 10px;
+}
+#spacing
+{
+  border: orange solid 2px;
+  margin: 25px;
+}
+p
+{
+  font-size: large;
+}
