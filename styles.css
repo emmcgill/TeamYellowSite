@@ -51,4 +51,48 @@ h2
     {font-size: 5em;}
     h2
     {font-size: 1.4em;}
+body 
+{
+  width: 100wh;
+  height: 100vh;
+}
+.YellowSubmarineContainer 
+{
+  height: 100%;
+}
+.aboutUs
+{
+  border: solid 5px black;
+  background-color: #0693ac;
+  color: #fcbf0e;
+  text-align: center;
+}
+#bodyHeader
+{
+  margin-left: 5px;
+}
+.person
+{
+  margin: 10px;
+}
+.personHead
+{
+  text-align: center;
+}
+.portrait
+{
+  width: 200px;
+  height: 200px;
+  background-color: #fcbf0e;
+  border-radius: 500px;
+  border: solid black 5px;
+}
+#spacing
+{
+  border: orange solid 2px;
+  margin: 25px;
+}
+p
+{
+  font-size: large;
 }
